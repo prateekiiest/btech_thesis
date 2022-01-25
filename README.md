@@ -16,6 +16,7 @@ Attached paper under review for AAAI MLOR 2021.
 [Would I regret later joining this Community ? Using temporal neighborhood information for community retention in a game theoretic community detection framework](./files/AAAI_MlrOR.pdf)
 
 
+![](./Btech%20Thesis%20images.svg)
 
 ## Citation
 

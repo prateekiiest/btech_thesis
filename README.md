@@ -18,6 +18,31 @@ Attached paper **accepted** at [AAAI MLOR 2021](https://ml4or22.github.io/).
 
 ![](./Btech%20Thesis%20images.svg)
 
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Customization](#customization)
+- [Citation](#citation)
+
+
+## Features
+
+- Faster convergence than existing game-theoretic based approaches, maintaining the same community structure.
+- Theoretical Gaurantees on Nash equilibria for proposed modularity-maximization metric.
+- Real world effectivness. Experimented on datasets
+  - *Amazon*
+  - *Enron*
+  - *Karate*
+  - *Football*
+  - *Dolphin*
+  - *ERDOS992*
+  - *fb pages food*
+  - *retweet network*
+  - *fb pages politician*
+
+
+
 ## Citation
 
 If you use this code for your research, please consider citing the arXiv preprint

@@ -8,10 +8,10 @@
 </p>
 
 
-This is done as part of my Bachelor's thesis with Prof. Malay Kule and Prof. Susanta Chakraborty.
+This is done as part of my Bachelor's thesis with [Prof. Malay Kule](https://www.iiests.ac.in/IIEST/Faculty/cs-malay) and [Prof. Susanta Chakraborty](https://www.iiests.ac.in/IIEST/Faculty/cs-sc).
 
 
-Attached paper under review for AAAI MLOR 2021.
+Attached paper **accepted** at [AAAI MLOR 2021](https://ml4or22.github.io/).
 
 [Would I regret later joining this Community ? Using temporal neighborhood information for community retention in a game theoretic community detection framework](./files/AAAI_MlrOR.pdf)
 

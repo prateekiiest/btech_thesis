@@ -1,4 +1,4 @@
-## Evaluating regrets while joining a community - A Novel Community Detection using Game Theory.
+## Evaluating regrets while joining a community - A Novel Community Detection in Large Networks using Game Theory.
 
 <p>
   <a href="https://aaai.org/Conferences/AAAI-22/">

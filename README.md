@@ -67,6 +67,24 @@ If you want to run a demo of our code, you can follow the following steps:
 - Open `comm-regret.ipynb` in your Jupyter Kernel.
 
 
+## Customization
+
+The main code is handled by the `communityDetect` function defined in [code](code/comm-regret.ipynb).
+It takes the following parameters in the order given
+
+- array of community labels (*each node is initialized with a unique community label initially*)
+- graph structure (*consisting of nodes and edges, we use a Networkx Data structure*)
+- nIter (*no. of iterations to run*)
+- Lambda (*the degree of community retention, lower the value - higher chances of nodes being retained in the same community they previosly chose*)
+
+Here `nIter` and `Lambda` can be customized w.r.t different graph datasets.
+
+
+## Datasets used
+
+[Stanford Graph Dataset](https://snap.stanford.edu/data/)
+
+
 
 ## Citation
 

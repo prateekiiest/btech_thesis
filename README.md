@@ -60,7 +60,7 @@ If you want to run a demo of our code, you can follow the following steps:
 
 ### Via Anaconda 
 
-- Install Anaconda following this [documentation](https://docs.anaconda.com/anaconda/install/windows/)
+- Install Anaconda following this [documentation](https://docs.anaconda.com/anaconda/install/) - [Windows Install](https://docs.anaconda.com/anaconda/install/windows/) , [Linux Install](https://docs.anaconda.com/anaconda/install/linux/)
 - `git clone https://github.com/prateekiiest/btech_thesis.git` under your specified designated folder path.
 - Open Jupyter Notebook (anaconda installation comes with all features including Jupyter notebook/ Spyder IDE)
 - Once the notebook folder view opens, navigate to `btech-thesis/code`

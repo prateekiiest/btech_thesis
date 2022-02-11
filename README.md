@@ -42,6 +42,14 @@ Attached paper **accepted** at [AAAI MLOR 2021](https://ml4or22.github.io/).
   - *fb pages politician*
 
 
+## Demo
+
+If you want to run a demo of our code, you can follow the following steps:
+
+### Windows
+- Open `Visual Studio Code`
+- `git clone https://github.com/prateekiiest/btech_thesis.git`
+- Follow setup of `Jupyter Notebooks in Visual Studio Code` from this [setup tutorial](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 ## Citation
 

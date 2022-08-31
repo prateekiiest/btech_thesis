@@ -8,7 +8,7 @@
 </p>
 
 
-This is done as part of my Bachelor's thesis with [Prof. Malay Kule](https://www.iiests.ac.in/IIEST/Faculty/cs-malay) and [Prof. Susanta Chakraborty](https://www.iiests.ac.in/IIEST/Faculty/cs-sc).
+This is done as part of my Bachelor's thesis under [Prof. Susanta Chakraborty](https://www.iiests.ac.in/IIEST/Faculty/cs-sc).
 
 
 Attached paper **accepted** at [AAAI MLOR 2021](https://ml4or22.github.io/).
